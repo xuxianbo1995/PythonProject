@@ -1,5 +1,5 @@
 # app.py
-from flask import Flask, jsonify
+from flask import Flask, jsonify, send_from_directory
 from flask_cors import CORS
 import pymysql
 from datetime import datetime
@@ -79,6 +79,9 @@ def price_data():
     data = get_price_data()
     return jsonify({"data": data})
 
+@app.route('/')
+def index():
+    return send_from_directory('static', 'LiqunData.html')
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
