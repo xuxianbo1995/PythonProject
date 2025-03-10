@@ -1,0 +1,48 @@
+{
+  "success": true,
+  "message": "操作成功！",
+  "code": 200,
+  "result": [
+    {
+      "moneyDay": "2025-02-21",
+      "money": "1800.0",
+      "bili": "50.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-20",
+      "money": "1750.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-19",
+      "money": "1750.0",
+      "bili": "100.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-14",
+      "money": "1650.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-13",
+      "money": "1650.0",
+      "bili": "100.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    }
+  ],
+  "timestamp": 1740384940720
+}

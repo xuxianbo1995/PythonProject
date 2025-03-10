@@ -1,0 +1,5496 @@
+{
+  "success": true,
+  "message": "操作成功！",
+  "code": 200,
+  "result": [
+    {
+      "moneyDay": "2024-07-24",
+      "money": "275.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-07-23",
+      "money": "275.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-06-14",
+      "money": "275.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-06-13",
+      "money": "275.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-06-12",
+      "money": "275.0",
+      "bili": "10.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-06-11",
+      "money": "265.0",
+      "bili": "10.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-05-31",
+      "money": "255.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-05-30",
+      "money": "255.0",
+      "bili": "5.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-05-26",
+      "money": "250.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-05-25",
+      "money": "250.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-05-24",
+      "money": "250.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-05-23",
+      "money": "250.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-05-22",
+      "money": "250.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-05-21",
+      "money": "250.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-05-20",
+      "money": "250.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-05-19",
+      "money": "250.0",
+      "bili": "5.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-05-18",
+      "money": "255.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-05-17",
+      "money": "255.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-05-16",
+      "money": "255.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-05-15",
+      "money": "255.0",
+      "bili": "10.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-04-22",
+      "money": "245.0",
+      "bili": "10.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-29",
+      "money": "255.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-28",
+      "money": "255.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-27",
+      "money": "255.0",
+      "bili": "12.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-23",
+      "money": "243.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-22",
+      "money": "243.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-21",
+      "money": "243.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-20",
+      "money": "245.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-19",
+      "money": "245.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-18",
+      "money": "245.0",
+      "bili": "5.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-17",
+      "money": "250.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-16",
+      "money": "250.0",
+      "bili": "5.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-15",
+      "money": "245.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-14",
+      "money": "245.0",
+      "bili": "5.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-13",
+      "money": "250.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-12",
+      "money": "250.0",
+      "bili": "5.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-09",
+      "money": "255.0",
+      "bili": "5.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-08",
+      "money": "250.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-07",
+      "money": "250.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-06",
+      "money": "250.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-05",
+      "money": "250.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-04",
+      "money": "250.0",
+      "bili": "20.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-02",
+      "money": "230.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-03-01",
+      "money": "230.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-29",
+      "money": "230.0",
+      "bili": "5.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-28",
+      "money": "235.0",
+      "bili": "10.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-27",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-26",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-25",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-24",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-23",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-22",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-21",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-20",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-19",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-18",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-17",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-16",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-09",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-08",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-07",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-06",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-05",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-04",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-03",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-02",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-02-01",
+      "money": "225.0",
+      "bili": "5.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-31",
+      "money": "230.0",
+      "bili": "5.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-30",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-29",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-28",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-27",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-26",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-25",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-24",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-23",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-22",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-21",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-20",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-19",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-18",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-17",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-16",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-15",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-14",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-13",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-12",
+      "money": "225.0",
+      "bili": "5.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-11",
+      "money": "230.0",
+      "bili": "5.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-10",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-09",
+      "money": "235.0",
+      "bili": "3.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-08",
+      "money": "238.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-07",
+      "money": "240.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-06",
+      "money": "240.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-05",
+      "money": "240.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-04",
+      "money": "240.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-03",
+      "money": "240.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-02",
+      "money": "238.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-01-01",
+      "money": "240.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-31",
+      "money": "240.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-30",
+      "money": "240.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-29",
+      "money": "240.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-28",
+      "money": "240.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-27",
+      "money": "240.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-26",
+      "money": "240.0",
+      "bili": "5.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-25",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-24",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-23",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-22",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-21",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-20",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-19",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-18",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-17",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-16",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-15",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-14",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-12",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-11",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-10",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-09",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-08",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-07",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-06",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-05",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-04",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-03",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-02",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-12-01",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-30",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-29",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-28",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-27",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-26",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-25",
+      "money": "235.0",
+      "bili": "5.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-24",
+      "money": "240.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-23",
+      "money": "240.0",
+      "bili": "5.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-22",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-21",
+      "money": "235.0",
+      "bili": "3.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-20",
+      "money": "238.0",
+      "bili": "5.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-19",
+      "money": "233.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-18",
+      "money": "233.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-17",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-16",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-15",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-14",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-13",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-12",
+      "money": "235.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-11",
+      "money": "232.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-10",
+      "money": "231.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-09",
+      "money": "233.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-08",
+      "money": "233.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-07",
+      "money": "233.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-06",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-05",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-04",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-03",
+      "money": "235.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-02",
+      "money": "235.0",
+      "bili": "3.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-11-01",
+      "money": "238.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-31",
+      "money": "238.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-30",
+      "money": "235.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-29",
+      "money": "232.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-28",
+      "money": "233.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-26",
+      "money": "233.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-25",
+      "money": "233.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-24",
+      "money": "230.0",
+      "bili": "3.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-23",
+      "money": "233.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-22",
+      "money": "230.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-21",
+      "money": "232.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-20",
+      "money": "232.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-19",
+      "money": "232.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-18",
+      "money": "232.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-17",
+      "money": "230.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-16",
+      "money": "230.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-15",
+      "money": "232.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-14",
+      "money": "232.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-13",
+      "money": "232.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-12",
+      "money": "232.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-11",
+      "money": "232.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-10",
+      "money": "230.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-09",
+      "money": "230.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-08",
+      "money": "230.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-07",
+      "money": "232.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-06",
+      "money": "232.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-05",
+      "money": "232.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-04",
+      "money": "232.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-10-03",
+      "money": "232.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-28",
+      "money": "232.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-27",
+      "money": "231.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-26",
+      "money": "231.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-25",
+      "money": "232.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-24",
+      "money": "232.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-23",
+      "money": "232.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-22",
+      "money": "232.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-21",
+      "money": "230.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-20",
+      "money": "230.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-19",
+      "money": "230.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-18",
+      "money": "230.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-17",
+      "money": "230.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-09-16",
+      "money": "227.0",
+      "bili": "3.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-09-15",
+      "money": "230.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-14",
+      "money": "230.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-13",
+      "money": "230.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-12",
+      "money": "230.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-11",
+      "money": "230.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-10",
+      "money": "230.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-09",
+      "money": "230.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-08",
+      "money": "230.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-07",
+      "money": "230.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-06",
+      "money": "230.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-05",
+      "money": "228.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-04",
+      "money": "228.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-03",
+      "money": "228.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-02",
+      "money": "228.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-9-01",
+      "money": "228.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-31",
+      "money": "227.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-30",
+      "money": "227.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-29",
+      "money": "226.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-28",
+      "money": "226.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-27",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-26",
+      "money": "225.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-25",
+      "money": "224.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-24",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-23",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-22",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-21",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-20",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-19",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-18",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-17",
+      "money": "225.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-16",
+      "money": "222.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-15",
+      "money": "222.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-14",
+      "money": "222.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-13",
+      "money": "222.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-12",
+      "money": "222.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-11",
+      "money": "222.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-10",
+      "money": "222.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-09",
+      "money": "222.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-08",
+      "money": "222.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-07",
+      "money": "222.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-06",
+      "money": "222.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-05",
+      "money": "221.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-04",
+      "money": "221.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-03",
+      "money": "221.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-02",
+      "money": "221.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-8-01",
+      "money": "221.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-31",
+      "money": "222.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-30",
+      "money": "222.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-29",
+      "money": "222.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-28",
+      "money": "223.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-27",
+      "money": "223.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-26",
+      "money": "221.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-25",
+      "money": "221.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-24",
+      "money": "223.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-23",
+      "money": "223.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-22",
+      "money": "223.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-21",
+      "money": "223.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-20",
+      "money": "224.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-19",
+      "money": "224.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-18",
+      "money": "224.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-17",
+      "money": "222.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-16",
+      "money": "222.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-15",
+      "money": "222.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-14",
+      "money": "221.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-13",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-12",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-11",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-10",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-09",
+      "money": "220.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-08",
+      "money": "218.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-07",
+      "money": "218.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-06",
+      "money": "220.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-05",
+      "money": "218.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-04",
+      "money": "218.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-03",
+      "money": "218.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-02",
+      "money": "220.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-7-01",
+      "money": "219.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-30",
+      "money": "219.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-29",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-28",
+      "money": "217.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-27",
+      "money": "218.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-26",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-25",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-21",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-20",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-19",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-18",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-17",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-16",
+      "money": "217.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-15",
+      "money": "216.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-14",
+      "money": "216.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-13",
+      "money": "216.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-12",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-11",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-10",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-09",
+      "money": "215.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-08",
+      "money": "214.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-07",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-06",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-05",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-04",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-03",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-02",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-6-01",
+      "money": "215.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-31",
+      "money": "213.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-30",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-29",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-28",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-27",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-26",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-25",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-24",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-23",
+      "money": "215.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-22",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-21",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-20",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-19",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-18",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-17",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-16",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-15",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-14",
+      "money": "217.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-13",
+      "money": "216.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-12",
+      "money": "216.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-11",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-10",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-09",
+      "money": "217.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-08",
+      "money": "218.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-07",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-06",
+      "money": "217.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-05",
+      "money": "218.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-5-04",
+      "money": "218.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-30",
+      "money": "218.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-29",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-28",
+      "money": "220.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-27",
+      "money": "218.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-26",
+      "money": "217.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-25",
+      "money": "219.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-24",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-23",
+      "money": "220.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-22",
+      "money": "219.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-21",
+      "money": "219.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-20",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-19",
+      "money": "220.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-18",
+      "money": "218.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-17",
+      "money": "218.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-16",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-15",
+      "money": "220.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-14",
+      "money": "218.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-13",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-12",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-11",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-10",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-09",
+      "money": "220.0",
+      "bili": "3.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-08",
+      "money": "223.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-07",
+      "money": "223.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-06",
+      "money": "223.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-05",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-04",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-03",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-02",
+      "money": "220.0",
+      "bili": "3.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-4-01",
+      "money": "223.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-31",
+      "money": "223.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-30",
+      "money": "223.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-29",
+      "money": "223.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-28",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-27",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-26",
+      "money": "225.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-25",
+      "money": "227.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-24",
+      "money": "227.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-23",
+      "money": "227.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-22",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-21",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-20",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-19",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-18",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-17",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-16",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-15",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-14",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-13",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-12",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-11",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-10",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-09",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-08",
+      "money": "225.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-07",
+      "money": "225.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-06",
+      "money": "223.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-05",
+      "money": "223.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-04",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-03",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-02",
+      "money": "220.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-3-01",
+      "money": "217.0",
+      "bili": "3.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-28",
+      "money": "220.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-27",
+      "money": "218.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-26",
+      "money": "220.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-25",
+      "money": "218.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-24",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-23",
+      "money": "220.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-22",
+      "money": "218.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-21",
+      "money": "215.0",
+      "bili": "5.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-20",
+      "money": "220.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-19",
+      "money": "220.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-18",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-17",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-16",
+      "money": "217.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-15",
+      "money": "218.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-14",
+      "money": "218.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-13",
+      "money": "218.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-12",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-11",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-10",
+      "money": "217.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-09",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-08",
+      "money": "215.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-07",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-06",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-05",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-04",
+      "money": "217.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-03",
+      "money": "215.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-02",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-2-01",
+      "money": "217.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-31",
+      "money": "216.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-30",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-29",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-28",
+      "money": "217.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-27",
+      "money": "217.0",
+      "bili": "4.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-20",
+      "money": "213.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-19",
+      "money": "213.0",
+      "bili": "3.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-18",
+      "money": "216.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-17",
+      "money": "216.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-16",
+      "money": "216.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-15",
+      "money": "216.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-14",
+      "money": "215.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-13",
+      "money": "216.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-12",
+      "money": "218.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-11",
+      "money": "216.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-10",
+      "money": "216.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-09",
+      "money": "216.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-08",
+      "money": "216.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-07",
+      "money": "216.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-06",
+      "money": "216.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-05",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-04",
+      "money": "215.0",
+      "bili": "5.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-03",
+      "money": "210.0",
+      "bili": "5.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2023-1-02",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-31",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-30",
+      "money": "215.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-29",
+      "money": "212.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-28",
+      "money": "210.0",
+      "bili": "5.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-27",
+      "money": "215.0",
+      "bili": "5.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-26",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-25",
+      "money": "210.0",
+      "bili": "5.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-22",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-21",
+      "money": "215.0",
+      "bili": "5.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-20",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-19",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-18",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-17",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-16",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-15",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-14",
+      "money": "210.0",
+      "bili": "5.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-13",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-12",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-11",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-10",
+      "money": "215.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-09",
+      "money": "212.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-08",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-07",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-06",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-05",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-04",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-03",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-02",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-12-01",
+      "money": "210.0",
+      "bili": "5.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-30",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-29",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-28",
+      "money": "215.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-27",
+      "money": "213.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-26",
+      "money": "213.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-25",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-24",
+      "money": "210.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-23",
+      "money": "212.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-22",
+      "money": "212.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-21",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-20",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-19",
+      "money": "210.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-18",
+      "money": "212.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-17",
+      "money": "212.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-16",
+      "money": "213.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-15",
+      "money": "214.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-14",
+      "money": "214.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-13",
+      "money": "214.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-12",
+      "money": "212.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-11",
+      "money": "212.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-10",
+      "money": "212.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-09",
+      "money": "210.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-08",
+      "money": "212.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-07",
+      "money": "213.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-06",
+      "money": "215.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-05",
+      "money": "215.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-04",
+      "money": "213.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-03",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-02",
+      "money": "210.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-11-01",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-31",
+      "money": "208.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-30",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-29",
+      "money": "210.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-28",
+      "money": "208.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-27",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-26",
+      "money": "210.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-25",
+      "money": "210.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-24",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-23",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-22",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-21",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-20",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-19",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-18",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-17",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-16",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-15",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-14",
+      "money": "208.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-13",
+      "money": "207.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-12",
+      "money": "207.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-11",
+      "money": "207.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-10",
+      "money": "207.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-08",
+      "money": "207.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-07",
+      "money": "207.0",
+      "bili": "3.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-06",
+      "money": "210.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-05",
+      "money": "207.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-10-04",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-30",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-29",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-28",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-27",
+      "money": "205.0",
+      "bili": "3.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-26",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-25",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-24",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-23",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-22",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-21",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-20",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-19",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-18",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-17",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-16",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-15",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-14",
+      "money": "208.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-13",
+      "money": "208.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-12",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-9",
+      "money": "205.0",
+      "bili": "3.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-8",
+      "money": "208.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-7",
+      "money": "207.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-6",
+      "money": "207.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-5",
+      "money": "208.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-4",
+      "money": "205.0",
+      "bili": "4.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-3",
+      "money": "209.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-2",
+      "money": "209.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-9-1",
+      "money": "207.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-31",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-30",
+      "money": "205.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-29",
+      "money": "203.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-28",
+      "money": "203.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-27",
+      "money": "203.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-26",
+      "money": "205.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-25",
+      "money": "203.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-24",
+      "money": "203.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-23",
+      "money": "203.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-22",
+      "money": "203.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-21",
+      "money": "203.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-20",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-19",
+      "money": "205.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-18",
+      "money": "207.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-17",
+      "money": "207.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-16",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-15",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-14",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-13",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-12",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-11",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-10",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-09",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-08",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-07",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-06",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-05",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-04",
+      "money": "205.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-03",
+      "money": "205.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-02",
+      "money": "203.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-8-01",
+      "money": "202.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-31",
+      "money": "200.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-30",
+      "money": "200.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-29",
+      "money": "200.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-28",
+      "money": "200.0",
+      "bili": "3.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-27",
+      "money": "203.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-26",
+      "money": "203.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-25",
+      "money": "203.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-24",
+      "money": "203.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-23",
+      "money": "203.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-22",
+      "money": "204.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-21",
+      "money": "204.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-20",
+      "money": "202.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-19",
+      "money": "200.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-18",
+      "money": "198.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-17",
+      "money": "198.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-16",
+      "money": "198.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-15",
+      "money": "195.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-14",
+      "money": "196.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-13",
+      "money": "198.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-12",
+      "money": "198.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-11",
+      "money": "198.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-10",
+      "money": "198.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-9",
+      "money": "198.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-8",
+      "money": "198.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-7",
+      "money": "200.0",
+      "bili": "3.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-6",
+      "money": "203.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-5",
+      "money": "203.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-4",
+      "money": "200.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-3",
+      "money": "198.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-2",
+      "money": "198.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-7-1",
+      "money": "200.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-30",
+      "money": "200.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-29",
+      "money": "198.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-28",
+      "money": "199.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-27",
+      "money": "198.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-26",
+      "money": "198.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-25",
+      "money": "197.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-24",
+      "money": "194.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-23",
+      "money": "194.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-22",
+      "money": "194.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-21",
+      "money": "194.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-20",
+      "money": "194.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-19",
+      "money": "196.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-18",
+      "money": "194.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-17",
+      "money": "194.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-16",
+      "money": "196.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-15",
+      "money": "198.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-14",
+      "money": "195.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-13",
+      "money": "193.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-12",
+      "money": "195.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-11",
+      "money": "193.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-10",
+      "money": "195.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-9",
+      "money": "195.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-8",
+      "money": "195.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-7",
+      "money": "192.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-6",
+      "money": "192.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-5",
+      "money": "192.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-4",
+      "money": "193.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-2",
+      "money": "193.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-6-1",
+      "money": "192.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-31",
+      "money": "193.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-30",
+      "money": "193.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-29",
+      "money": "193.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-28",
+      "money": "193.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-27",
+      "money": "194.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-25",
+      "money": "193.0",
+      "bili": "3.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-24",
+      "money": "196.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-23",
+      "money": "194.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-22",
+      "money": "194.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-21",
+      "money": "194.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-20",
+      "money": "194.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-18",
+      "money": "193.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-16",
+      "money": "195.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-15",
+      "money": "195.0",
+      "bili": "3.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-13",
+      "money": "198.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-12",
+      "money": "198.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-11",
+      "money": "198.0",
+      "bili": "3.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-10",
+      "money": "195.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-9",
+      "money": "195.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-8",
+      "money": "195.0",
+      "bili": "5.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-7",
+      "money": "200.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-6",
+      "money": "198.0",
+      "bili": "4.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-5",
+      "money": "194.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-4",
+      "money": "194.0",
+      "bili": "6.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-3",
+      "money": "200.0",
+      "bili": "5.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-5-2",
+      "money": "195.0",
+      "bili": "38.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-4-29",
+      "money": "157.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-4-28",
+      "money": "157.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-4-27",
+      "money": "157.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-4-26",
+      "money": "157.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-4-25",
+      "money": "157.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-4-23",
+      "money": "157.0",
+      "bili": "43.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-4-22",
+      "money": "200.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-4-18",
+      "money": "202.0",
+      "bili": "4.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-4-16",
+      "money": "198.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-4-10",
+      "money": "198.0",
+      "bili": "4.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2022-4-8",
+      "money": "202.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    }
+  ],
+  "timestamp": 1741567175418
+}

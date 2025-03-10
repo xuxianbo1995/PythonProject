@@ -1,0 +1,248 @@
+{
+  "success": true,
+  "message": "操作成功！",
+  "code": 200,
+  "result": [
+    {
+      "moneyDay": "2025-02-21",
+      "money": "1800.0",
+      "bili": "50.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-20",
+      "money": "1750.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-19",
+      "money": "1750.0",
+      "bili": "100.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-14",
+      "money": "1650.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-13",
+      "money": "1650.0",
+      "bili": "100.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-01-17",
+      "money": "1550.0",
+      "bili": "50.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-01-13",
+      "money": "1500.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-01-06",
+      "money": "1500.0",
+      "bili": "150.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-01-05",
+      "money": "1650.0",
+      "bili": "580.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-12-18",
+      "money": "2230.0",
+      "bili": "20.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-12-17",
+      "money": "2210.0",
+      "bili": "20.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-12-07",
+      "money": "2230.0",
+      "bili": "5.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-12-06",
+      "money": "2235.0",
+      "bili": "15.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-12-05",
+      "money": "2250.0",
+      "bili": "50.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-12-04",
+      "money": "2300.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-12-03",
+      "money": "2300.0",
+      "bili": "20.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-12-02",
+      "money": "2280.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-12-01",
+      "money": "2280.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-11-30",
+      "money": "2280.0",
+      "bili": "30.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-11-24",
+      "money": "2250.0",
+      "bili": "50.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-11-23",
+      "money": "2200.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-11-22",
+      "money": "2200.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-11-21",
+      "money": "2200.0",
+      "bili": "80.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-11-20",
+      "money": "2120.0",
+      "bili": "50.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-11-12",
+      "money": "2070.0",
+      "bili": "20.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-11-11",
+      "money": "2090.0",
+      "bili": "90.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-11-10",
+      "money": "2000.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-11-09",
+      "money": "2000.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-11-08",
+      "money": "2000.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2024-11-07",
+      "money": "2000.0",
+      "bili": null,
+      "type": null,
+      "guidePrice": null,
+      "tradePrice": null
+    }
+  ],
+  "timestamp": 1741567230184
+}

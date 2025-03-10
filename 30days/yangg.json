@@ -1,0 +1,200 @@
+{
+  "success": true,
+  "message": "操作成功！",
+  "code": 200,
+  "result": [
+    {
+      "moneyDay": "2025-02-23",
+      "money": "405.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-22",
+      "money": "405.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-21",
+      "money": "406.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-20",
+      "money": "405.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-19",
+      "money": "405.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-18",
+      "money": "405.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-17",
+      "money": "406.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-16",
+      "money": "406.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-15",
+      "money": "405.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-14",
+      "money": "403.0",
+      "bili": "2.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-13",
+      "money": "405.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-12",
+      "money": "405.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-11",
+      "money": "405.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-10",
+      "money": "405.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-09",
+      "money": "405.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-08",
+      "money": "405.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-07",
+      "money": "404.0",
+      "bili": "1.0",
+      "type": 2,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-06",
+      "money": "405.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-05",
+      "money": "405.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-04",
+      "money": "405.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-02-03",
+      "money": "405.0",
+      "bili": "4.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-01-27",
+      "money": "401.0",
+      "bili": "1.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-01-26",
+      "money": "400.0",
+      "bili": "0.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    },
+    {
+      "moneyDay": "2025-01-25",
+      "money": "400.0",
+      "bili": "2.0",
+      "type": 1,
+      "guidePrice": null,
+      "tradePrice": null
+    }
+  ],
+  "timestamp": 1740384502142
+}
