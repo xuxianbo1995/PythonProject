@@ -66,4 +66,4 @@ if __name__ == '__main__':
     with app.app_context():
         # 可在此处预加载数据（可选）
         pass
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=10000)
