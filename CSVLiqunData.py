@@ -7,9 +7,7 @@ from collections import defaultdict
 import os
 
 app = Flask(__name__)
-CORS(app, resources={
-    r"/api/*": {"origins": ["https://pythonproject-6bq1.onrender.com"]}
-})
+CORS(app)
 
 
 # 移除无用的数据库相关代码
@@ -68,5 +66,4 @@ if __name__ == '__main__':
     with app.app_context():
         # 可在此处预加载数据（可选）
         pass
-    port = int(os.environ.get("PORT", 10000))  # 优先读取Render环境变量
-    app.run(host='0.0.0.0', port=port)
+    app.run(host='0.0.0.0', port=5000)

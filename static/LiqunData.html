@@ -52,7 +52,7 @@
             const myChart = echarts.init(chartDom);
 
             try {
-                const response = await fetch('http://localhost:10000/api/price-data');
+                const response = await fetch('http://localhost:5000/api/price-data');
                 if (!response.ok) return showError();
 
                 const data = await response.json();
