@@ -7,6 +7,7 @@
     <style>
         #chart { width: 100%; height: 600px; margin: 20px auto; }
         .title { text-align: center; color: #333; }
+        .error-message { text-align: center; color: #ff4d4f; padding: 20px; }
     </style>
 </head>
 <body>
@@ -14,74 +15,151 @@
     <div id="chart"></div>
 
     <script>
-        // 品牌翻译字典
+        // 品牌翻译配置
         const brandTranslation = {
             'changzui': '长嘴',
             'ruanchangzui': '软长嘴',
             'xinban': '新版',
-            'xiuxianxizhi': '休闲细支'
+            'xiuxianxizhi': '休闲细支',
+            'chengzhongzhi': '城中支',
+            'hongli': '红利',
+            'jiangnanyun': '江南韵',
+            'lantian': '蓝天',
+            'laoban': '老版',
+            'liqunying': '利群硬',
+            'louwailou': '楼外楼',
+            'qingzhongzhi': '青中支',
+            'ruanhong': '软红',
+            'ruanjin': '软金',
+            'ruanlan': '软蓝',
+            'shanwaishan': '山外山',
+            'tianwaitian': '天外天',
+            'xihulian': '西湖恋',
+            'xinerdai': '新二代',
+            'xiuxian': '休闲',
+            'xiuxianjinzhongzhi': '休闲金中支',
+            'xiuxianyunduan': '休闲云端',
+            'xiziyangguang': '西子阳光',
+            'yangguang': '阳光',
+            'yexihu': '夜西湖',
+            'yingshanwaishan': '硬山外山',
+            'zunxizhi': '尊细支',
+            'zunzhongzhi': '尊中支'
         };
-
-        // 翻译品牌名称
-        function translateBrand(brand) {
-            return brandTranslation[brand] || brand;
-        }
 
         async function initChart() {
             const chartDom = document.getElementById('chart');
             const myChart = echarts.init(chartDom);
 
             try {
-                const response = await fetch('http://localhost:10000/api/price-data');
-                const { data } = await response.json();
+                const response = await fetch('http://localhost:5000/api/price-data');
+                if (!response.ok) return showError();
 
-                // 按品牌分组数据
+                const data = await response.json();
+                if (!Array.isArray(data)) return showError();
+
+                // 数据处理（包含品牌翻译）
                 const brandMap = new Map();
                 data.forEach(item => {
-                    const brand = translateBrand(item.brand);  // 翻译品牌名称
-                    if (!brandMap.has(brand)) {
-                        brandMap.set(brand, []);
-                    }
-                    brandMap.get(brand).push(item);
+                    const translatedBrand = brandTranslation[item.brand] || item.brand;
+                    brandMap.has(translatedBrand) || brandMap.set(translatedBrand, []);
+                    brandMap.get(translatedBrand).push({
+                        ...item,
+                        brand: translatedBrand
+                    });
                 });
 
-                // 生成图表配置
-                const option = {
-                    title: { text: '价格趋势分析', left: 'center' },
-                    tooltip: { trigger: 'axis' },
+                // 图表配置
+                myChart.setOption({
+                    title: {
+                        text: '价格趋势分析',
+                        left: 'center',
+                        top: 10
+                    },
+                    tooltip: {
+                        trigger: 'axis',
+                        confine: true  // 防止提示框溢出
+                    },
                     legend: {
-                        data: Array.from(brandMap.keys()),
-                        top: 30
+                        data: Array.from(brandMap.keys()).sort(),
+                        type: 'scroll',
+                        orient: 'horizontal',
+                        top: 40,
+                        itemGap: 12,
+                        textStyle: {
+                            width: 80,
+                            overflow: 'truncate'
+                        },
+                        pageIconSize: 12,
+                        pageTextStyle: {
+                            color: '#666'
+                        }
+                    },
+                    grid: {
+                        top: 90,
+                        bottom: 60,
+                        left: 70,
+                        right: 30,
+                        containLabel: true
                     },
                     xAxis: {
                         type: 'category',
-                        data: [...new Set(data.map(item => item.date))], // 所有日期
-                        axisLabel: { rotate: 45 }
+                        data: [...new Set(data.map(item => item.date))],
+                        axisLabel: {
+                            rotate: 45,
+                            margin: 15
+                        },
+                        axisTick: {
+                            alignWithLabel: true
+                        }
                     },
                     yAxis: {
                         type: 'value',
-                        axisLabel: { formatter: '¥{value}' }
+                        axisLabel: {
+                            formatter: '¥{value}',
+                            margin: 15
+                        },
+                        max: value => Math.ceil(value.max * 1.05)
                     },
                     series: Array.from(brandMap).map(([brand, items]) => ({
                         name: brand,
                         type: 'line',
                         smooth: true,
+                        symbol: 'circle',
+                        symbolSize: 8,
+                        lineStyle: {
+                            width: 2,
+                            type: 'solid'
+                        },
+                        areaStyle: {
+                            opacity: 0.05  // 添加透明色区域
+                        },
                         data: items.sort((a, b) => a.date.localeCompare(b.date))
-                              .map(item => item.price),
+                              .map(item => item.price.toFixed(2)),
                         markPoint: {
+                            symbol: 'pin',
+                            symbolSize: 40,
+                            label: {
+                                color: '#fff',
+                                fontSize: 12
+                            },
                             data: [
-                                { type: 'max', name: '最大值' },
-                                { type: 'min', name: '最小值' }
+                                { type: 'max', name: '峰值' },
+                                { type: 'min', name: '谷值' }
                             ]
                         }
                     }))
-                };
+                });
 
-                myChart.setOption(option);
                 window.addEventListener('resize', () => myChart.resize());
-            } catch (e) {
-                console.error('图表初始化失败:', e);
+            } catch {
+                showError();
             }
+        }
+
+        function showError() {
+            document.getElementById('chart').innerHTML =
+                '<div class="error-message">数据加载失败，请稍后刷新重试</div>';
         }
 
         initChart();

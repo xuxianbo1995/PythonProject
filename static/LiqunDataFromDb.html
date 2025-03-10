@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>品牌价格趋势报告</title>
+    <script src="https://cdn.staticfile.net/echarts/5.4.2/echarts.min.js"></script>
+    <style>
+        #chart { width: 100%; height: 600px; margin: 20px auto; }
+        .title { text-align: center; color: #333; }
+    </style>
+</head>
+<body>
+    <h1 class="title">品牌价格趋势分析</h1>
+    <div id="chart"></div>
+
+    <script>
+        // 品牌翻译字典
+        const brandTranslation = {
+            'changzui': '长嘴',
+            'ruanchangzui': '软长嘴',
+            'xinban': '新版',
+            'xiuxianxizhi': '休闲细支'
+        };
+
+        // 翻译品牌名称
+        function translateBrand(brand) {
+            return brandTranslation[brand] || brand;
+        }
+
+        async function initChart() {
+            const chartDom = document.getElementById('chart');
+            const myChart = echarts.init(chartDom);
+
+            try {
+                const response = await fetch('http://localhost:5000/api/price-data');
+                const { data } = await response.json();
+                console.log(data);
+
+                // 按品牌分组数据
+                const brandMap = new Map();
+                data.forEach(item => {
+                    const brand = translateBrand(item.brand);  // 翻译品牌名称
+                    if (!brandMap.has(brand)) {
+                        brandMap.set(brand, []);
+                    }
+                    brandMap.get(brand).push(item);
+                });
+
+                // 生成图表配置
+                const option = {
+                    title: { text: '价格趋势分析', left: 'center' },
+                    tooltip: { trigger: 'axis' },
+                    legend: {
+                        data: Array.from(brandMap.keys()),
+                        top: 30
+                    },
+                    xAxis: {
+                        type: 'category',
+                        data: [...new Set(data.map(item => item.date))], // 所有日期
+                        axisLabel: { rotate: 45 }
+                    },
+                    yAxis: {
+                        type: 'value',
+                        axisLabel: { formatter: '¥{value}' }
+                    },
+                    series: Array.from(brandMap).map(([brand, items]) => ({
+                        name: brand,
+                        type: 'line',
+                        smooth: true,
+                        data: items.sort((a, b) => a.date.localeCompare(b.date))
+                              .map(item => item.price),
+                        markPoint: {
+                            data: [
+                                { type: 'max', name: '最大值' },
+                                { type: 'min', name: '最小值' }
+                            ]
+                        }
+                    }))
+                };
+
+                myChart.setOption(option);
+                window.addEventListener('resize', () => myChart.resize());
+            } catch (e) {
+                console.error('图表初始化失败:', e);
+            }
+        }
+
+        initChart();
+    </script>
+</body>
+</html>
